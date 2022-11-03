@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/france-kradev/SafeClickHelper.svg)](https://jitpack.io/#france-kradev/SafeClickHelper)
 # Android Safe Click Listener Helper 
 
 Solution for button multiple rapid clicks or double clicks
